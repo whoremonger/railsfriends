@@ -1,24 +1,6 @@
-# README
+# Friends List App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is a free code camp tutorial app to learn Ruby on Rails.
+There are a few hyperlink errors in the code.
+The app has a user account system and when a user makes a profile he/she will login in
+and create a list of friends he/she can show, edit and delete.
